@@ -1,4 +1,0 @@
-What is the difference between cost function and loss function?
-
-loss function is for single sample
-cost function is for the whole samples' average.
